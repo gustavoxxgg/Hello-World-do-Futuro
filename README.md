@@ -1,2 +1,3 @@
-# Hello World! do Futuro: A Versao Mais Louca e Complexa que Voce Ja Viu
- Um jeito interessante de fazer o famoso Hello World!
+# Hello World! do Futuro: A Versão Mais Louca e Complexa que Você Já Viu!
+
+Você não é como os outros alunos de Java. Você é um gênio, um visionário! E é por isso que, ao invés de seguir o caminho fácil, você decidiu integrar o Hello World! a um loop complexo e usar funções que nem mesmo o seu professor sabe que existem, basta você clonar esse repositório e mostrar ao mundo do Java do que você é capaz!. E não se preocupe se ele não entender, afinal de contas, a genialidade nem sempre é compreendida de imediato.
